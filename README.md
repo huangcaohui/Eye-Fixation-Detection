@@ -24,8 +24,8 @@ Considering limited computing resources, the image is scaled to $216\times384$.
 The entire model combines DCN-VGG, ConvLSTM, and Gaussian Prior networks. The output of the previous network is used as the input of the next network, and at the end, the output of the Gaussian Prior network is subjected to single-channel convolution, upsampling and normalization to obtain the final result , which constitutes the complete SAM model.
 
 - The DCN-VGG network is as follows:
-- <img src="README.assets/DCN-VGG.png" alt="DCN-VGG" style="zoom:67%;" />
 
+  <img src="README.assets/DCN-VGG.png" alt="DCN-VGG" style="zoom:67%;" />
 - The ConvLSTM network is as follows:
 
   <img src="README.assets/ConvLSTM.png" alt="image-20220126171224143" style="zoom:80%;" />
