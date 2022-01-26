@@ -1,5 +1,5 @@
 # Eye-Fixation-Detection
-**SAM model for human eye fixation detection**
+**SAM Model For Human Eye Fixation Detection**
 
 For this dataset, there are 1600 images in the training set, 400 images in the test set. 20 types of training data, 80 for each type of data; 20 types of test data, 20 for each type of data. And the original image size is $1080 \times 1920$.
 
