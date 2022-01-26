@@ -16,7 +16,7 @@ Server Configuration: Intel Xeon CPU E5-2683 v3/28 kernels
 RAM: 348G
 Graphics Card: Nvidia Tesla P100/16G video memory
 Operating System: Windows server 2012
-Deep Learning Framework: Tensorflow 2.3
+Deep Learning Framework: Tensorflow-gpu 2.3
 ```
 
 Considering limited computing resources, the image is scaled to $216\times384$.
